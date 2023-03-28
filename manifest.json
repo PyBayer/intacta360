@@ -1,7 +1,8 @@
 {
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "name": "Intacta 360 - Feria Innovar",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "description": "Experiencia virtual de la tecnología i2x",
- "start_url": "index.htm"
+ "name": "Intacta 360 - Feria Innovar",
+ "description": "Experiencia virtual de la tecnología i2x"
 }
